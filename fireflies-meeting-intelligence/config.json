@@ -1,0 +1,21 @@
+{
+  "name": "fireflies-meeting-intelligence",
+  "version": "1.0.0",
+  "description": "Access and analyze Fireflies.ai meeting transcripts with AI-powered insights",
+  "author": "Columbia Expert System",
+  "created": "2025-11-24",
+  "capabilities": [
+    "List all meeting transcripts",
+    "Search meetings by title, date, or participant",
+    "Get full transcript with timestamps",
+    "Extract action items automatically",
+    "Identify key topics and decisions",
+    "Get meeting summaries",
+    "Search transcript content",
+    "Export transcripts to various formats"
+  ],
+  "api_endpoint": "https://api.fireflies.ai/graphql",
+  "api_key": "${FIREFLIES_API_KEY}",
+  "api_key_source": "environment",
+  "api_key_env_var": "FIREFLIES_API_KEY"
+}
