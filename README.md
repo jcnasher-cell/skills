@@ -6,14 +6,14 @@ A collection of custom skills for Claude Code, providing specialized capabilitie
 
 | Skill | Description |
 |-------|-------------|
-| [Firecrawl](firecrawl/) | Web scraping and crawling using the Firecrawl API |
-| [Fireflies Meeting Intelligence](fireflies-meeting-intelligence/) | Access and analyze Fireflies.ai meeting transcripts |
-| [Strategic Daily Brief Writer](strategic-daily-brief-writer/) | Generate Strategic Daily Briefs for construction leadership |
-| [Firebase + React App Development](SKILL-firebase-react-app-development.md) | Best practices and lessons learned for Firebase + React apps |
+| [firecrawl](firecrawl/) | Web scraping and crawling using the Firecrawl API |
+| [fireflies](fireflies/) | Access and analyze Fireflies.ai meeting transcripts |
+| [daily-brief](daily-brief/) | Generate Strategic Daily Briefs for construction leadership |
+| [firebase-react](firebase-react/) | Best practices and lessons learned for Firebase + React apps |
 
 ## Skill Details
 
-### Firecrawl
+### firecrawl
 
 Web scraping, crawling, and structured data extraction capabilities:
 
@@ -26,7 +26,7 @@ Web scraping, crawling, and structured data extraction capabilities:
 
 ---
 
-### Fireflies Meeting Intelligence
+### fireflies
 
 Access and analyze meeting transcripts from Fireflies.ai:
 
@@ -40,7 +40,7 @@ Access and analyze meeting transcripts from Fireflies.ai:
 
 ---
 
-### Strategic Daily Brief Writer
+### daily-brief
 
 Assist construction leadership in producing Strategic Daily Briefs (SDBs):
 
@@ -53,7 +53,7 @@ Assist construction leadership in producing Strategic Daily Briefs (SDBs):
 
 ---
 
-### Firebase + React App Development
+### firebase-react
 
 Comprehensive guide covering lessons learned from building applications:
 
